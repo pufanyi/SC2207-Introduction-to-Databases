@@ -1,0 +1,4 @@
+[submodule "lab5"]
+	path = lab5
+	url = git@github.com:oscarqjh/SC2207-Project.git
+	branch = main
